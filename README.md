@@ -2,7 +2,7 @@
 Share of men taking parental leave on county level in Germany in 2018.
 
 
-https://smetzler.github.io/elternzeit/elternzeit_2018_gender.html
+https://smetzler.github.io/elternzeit/elternzeit_2018_gender_leg.html
 
 
 
